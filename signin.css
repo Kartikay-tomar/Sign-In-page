@@ -1,0 +1,173 @@
+#cri
+{
+    position: relative;
+    width: 50%;
+    height: 50%;
+    left: 50%;
+    top: 80%;
+}
+#signin
+{
+    left: 5%;
+    top: 3%;
+    position: absolute;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 57px;
+    color: rgba(53,83,137,1);
+}
+#continue
+{
+    left: 10%;
+    top: 13.5%;
+    position: absolute;
+    overflow: visible;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(70,110,182,1);
+}
+.rectangle1 {
+    top: 21%;
+    left: 5%;
+    position: absolute;
+  height: 50px;
+  width: 170px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 2px 2px 8px #8b8b8b;
+  border-radius: 30px;
+}
+#google
+{
+    position: absolute;
+    width: 50px;
+    top: 21%;
+    left: 5%;
+    height: 50px;
+}
+.gt
+{
+    position:fixed;
+    top: 22.7%;
+    left: 9%;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 23px;
+    text-align: left;
+    color:  rgb(68, 68, 68);;  
+}
+.rectangle2
+{
+    top: 21%;
+    left: 21%;
+  height: 50px;
+  width: 170px;
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 2px 2px 8px #8b8b8b;
+  border-radius: 30px;
+}
+#facebook
+{
+    position: absolute;
+    width: 50px;
+    top: 21%;
+    left: 21%;
+    height: 50px;
+}
+.ft
+{
+    position:fixed;
+    top: 22.7%;
+    left: 24.3%;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 23px;
+    text-align: left;
+    color: rgb(68, 68, 68);  
+}
+#form
+{
+    left: 5%;
+    top: 28%;
+    position: absolute;
+    overflow: visible;
+    width: 149px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgba(24,70,85,1);
+}
+.f2
+{
+    left: 224px;
+    top: 379px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    color: rgb(0, 0, 0);
+}
+#submit
+{
+    top: 0%;
+ width: 500px;
+ height: 50px;
+ background: coral;
+ font-family: Arial;
+ border-radius: 50px;
+ font-weight: bold;
+ font-size: 30px;
+ color: rgb(255, 255, 255);
+cursor: pointer;
+ border: none;
+}
+input[type=text]
+{
+    width: 500px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 8px #8b8b8b;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(90, 90, 90);
+  }
+  input[type=password]
+  {
+    width: 500px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 8px #8b8b8b;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(90, 90, 90);
+  }
+  input[type=email]
+  {
+    width: 500px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 2px 2px 8px #8b8b8b;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(90, 90, 90);
+  }
